@@ -1,16 +1,24 @@
 ## Hi there 👋
 
+I'm a C# developer with 4 years of professional experience, specializing in desktop applications for Windows (and occasionally Linux). My focus is on building robust and performant solutions, often exploring the boundaries of what's possible in .NET.
+
+## 💻 What I Do
+
+- **C# Desktop Apps** — Professional experience building reliable, modern Windows applications.
+- **Performance Engineering** — I have a public repository dedicated to performance-related explorations, featuring components I wish I'd had during my earlier projects.
+- **Open Source** — I share tools and libraries that help developers tackle common and uncommon problems, especially around parsing and DSLs (Domain-Specific Languages.
+
+## 🚀 Highlight: [SyntaxScanner](https://github.com/guffab/Sandbox?tab=readme-ov-file#syntaxscanner)
+A flexible library for parsing Domain-Specific Languages (DSLs) — designed for speed, reliability, and ease of use. Born out of real-world needs when standard solutions fell short.
+
+## 🛠️ Tech Stack
+
+- C#
+- .NET (Desktop)
+- Windows (primary), Linux (secondary)
+
+---
+
 <!--
-**guffab/guffab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minimal, professional, and focused on what matters most: building great software.
 -->
